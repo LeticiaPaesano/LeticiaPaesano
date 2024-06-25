@@ -29,7 +29,10 @@
   </a>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=1000&lines=Habilidades)](https://github.com/LeticiaPaesano)
+
 <div align="center">
+  
   <img src="https://img.icons8.com/fluency/80/000000/mysql-logo.png" alt="MySQL" width="80" height="80"/> 
   <img src="https://img.icons8.com/fluency/80/000000/r-project.png" alt="R" width="80" height="80"/> 
   <img src="https://img.icons8.com/fluency/80/000000/python.png" alt="Python" width="80" height="80"/>
