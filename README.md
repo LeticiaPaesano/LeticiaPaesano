@@ -37,3 +37,11 @@
   <img src="https://img.icons8.com/fluency/80/000000/r-project.png" alt="R" width="80" height="80"/> 
   <img src="https://img.icons8.com/fluency/80/000000/python.png" alt="Python" width="80" height="80"/>
 </div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=1000&lines=Certificados)](https://github.com/LeticiaPaesano)
+
+<div align="center">
+
+- **[AI in Data Analysis]([URL_DA_CERTIFICAÇÃO](https://www.sololearn.com/pt/certificates/CC-VYN6P47E))** - Sololearn (2024)
+- **[Data Science]([URL_DA_CERTIFICA](https://ada.tech/certificado?code=d4476713-b011-ad5d-2a6e-8e0759fc7bb7))** - Santander Coders (2024)
+
