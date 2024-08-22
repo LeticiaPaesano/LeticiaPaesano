@@ -20,7 +20,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=1000&lines=Contact)](https://github.com/LeticiaPaesano)
 
 <div align="center" style="background-color: #171717; padding: 40px; margin-bottom: 40px;">
-  <a href="https://www.linkedin.com/in/let%C3%ADciapaesano/" style="text-decoration: none; margin-right: 40px;">
+  <a href="https://www.linkedin.com/in/leticiapaesano" style="text-decoration: none; margin-right: 40px;">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=circle" alt="LinkedIn"/>
   </a>
 
