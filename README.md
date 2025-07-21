@@ -1,56 +1,75 @@
-<a href="https://github.com/LeticiaPaesano">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=171717&height=180&section=header&text=WELCOME!&fontSize=30&fontColor=00FF00&animation=twinkling&fontAlignY=35"/>
-</a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=LETÍCIA%20PAESANO&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+</p>
 
+<h2 align="center">📊 Cientista de Dados com especialização em finanças</h2>
+<p align="center">Atuando com dados e análises comerciais.</p>
+<p align="center">📍 Curitiba - PR | 🎓 Ciência de Dados & Gestão Financeira (em curso)</p>
 
+---
 
-<div align="center">
+### 🧠 Sobre Mim
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Letícia+Paesano;🎂+I'm+30+years+old;🌆+I+am+from+Curitiba,+PR;📚+I+study+Data+Science+at+UNICSUL)](https://github.com/LeticiaPaesano)
- 
-  <div style="display: flex; background-color: #171717; padding: 10px;">
-    <div style="flex: 1; padding-right: 10px;">
-      <a href="https://github.com/LeticiaPaesano">
-        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaPaesano&layout=compact&langs_count=7&theme=react&bg_color=171717&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF"/>
-      </a>
-    </div>
-  </div>
+- 🎓 Graduação em Ciência de Dados
+- 🎓 Cursando Gestão Financeira
+- 💼 +6 anos de experiência em Finanças
+- 📊 Foco em análise de dados aplicados a negócios
 
-  <div align="center" style="background-color: #171717; padding: 40px; margin-bottom: 40px;">
-    <a href="https://www.linkedin.com/in/leticiapaesano" style="text-decoration: none; margin-right: 40px;">
-      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:leticiapaesano@gmail.com" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </div>
- </div>
- 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=1000&lines=Habilidades)](https://github.com/LeticiaPaesano)
+---
 
-  <div align="center">
-    <img src="https://img.icons8.com/fluency/80/000000/mysql-logo.png" alt="MySQL" width="80" height="80"/> 
-    <img src="https://img.icons8.com/fluency/80/000000/r-project.png" alt="R" width="80" height="80"/> 
-    <img src="https://img.icons8.com/fluency/80/000000/python.png" alt="Python" width="80" height="80"/>
-  </div>
+### 🚀 Habilidades Técnicas
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=1000&lines=Certificados)](https://github.com/LeticiaPaesano)
+| Ferramentas e Linguagens        | Conhecimentos                                      |
+|--------------------------------|---------------------------------------------------|
+| `Python`, `pandas`, `NumPy`    | Análise de dados, ETL, Estatística                 |
+| `Matplotlib`, `Seaborn`        | Visualização de dados                              |
+| `SQL`, `SQLite`                | Consultas, joins e análise de dados estruturados  |
+| `Excel`, `Google Sheets`       | Controle financeiro e dashboards manuais          |
+| `Git`, `GitHub`                | Controle de versão e portfólio de projetos         |
+| `VSCode`, `Google Colab`       | Desenvolvimento de notebooks e scripts             |
+| `scipy.stats` (`ss`)           | Testes estatísticos                                |
 
-  <div align="center">
-    <ul>
-      <li><strong><a href="https://www.sololearn.com/pt/certificates/CC-VYN6P47E">AI in Data Analysis</a></strong> - Sololearn (2024)</li>
-      <li><strong><a href="https://ada.tech/certificado?code=d4476713-b011-ad5d-2a6e-8e0759fc7bb7">Data Science</a></strong> - Santander Coders (2024)</li>
-    </ul>
-  </div>
+---
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=1000&lines=Formação+Acadêmica)](https://github.com/LeticiaPaesano)
+### 🧩 Projetos em Destaque
 
-  <div align="center">
-    <ul>
-      <li><strong>Tecnólogo em Ciência de Dados</strong> - Conclusão em junho de 2025</li>
-      <li><strong>Tecnólogo em Gestão Financeira</strong> - Conclusão em 2026</li>
-    </ul>
-  </div>
+- 📊 [**Desempenho das Lojas - Alura Store**](https://github.com/LeticiaPaesano/Desempenho-das-Lojas-Alura-Store)  
+  Análise exploratória para recomendar a venda de uma loja com base em KPIs comerciais.
 
-</div>
+- ☕ [**Análise de Vendas de Café**](https://github.com/LeticiaPaesano/Analise-de-vendas-de-cafe)  
+  Exploração de dados de vendas, frete e categorias para apoiar decisões estratégicas.
 
+- 📈 [**PNAD 2015 - Renda no Brasil**](https://github.com/LeticiaPaesano/Pesquisa-Nacional-por-Amostra-de-Domicilios-PNAD---2015)  
+  Análise descritiva e estatística da renda domiciliar brasileira com visualizações.
+
+- 📉 [**Churn em Telecom**](https://github.com/LeticiaPaesano/Telecom-X-Analise-de-Churn)  
+  Estudo de evasão de clientes utilizando análise de dados para identificar padrões de saída.
+
+- 🌍 [**ETL com Pandas - Emissões de CO₂**](https://github.com/LeticiaPaesano/ETL-com-Pandas-Emissoes-de-CO2-por-Pais.)  
+  Projeto de ETL com múltiplas fontes (Excel, Google Sheets) e dados históricos ambientais.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeticiaPaesano&show_icons=true&theme=radical&locale=pt-br"/>
+  <height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=LeticiaPaesano&theme=radical&locale=pt-br"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaPaesano&layout=compact&theme=radical&locale=pt-br"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LeticiaPaesano&theme=radical&no-frame=true&margin-w=10&column=3"/>
+</p>
+
+---
+
+### 📬 Contato
+
+[![Email](https://img.shields.io/badge/📧-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:leticiapaesano@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiapaesano/)
+[![Notion](https://img.shields.io/badge/📝-Notion-black?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Let-cia-Paesano-129035f636d180f4904be358bbeb2b7e)
