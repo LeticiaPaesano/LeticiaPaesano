@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=LETÍCIA%20PAESANO&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=LETÍCIA%20PAESANO&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 <h2 align="center">📊 Cientista de Dados com especialização em finanças</h2>
