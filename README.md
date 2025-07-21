@@ -7,6 +7,18 @@
 <p align="center">Atuando com dados e análises comerciais.</p>
 <p align="center">📍 Curitiba - PR | 🎓 Ciência de Dados & Gestão Financeira (em curso)</p>
 
+<p align="center">
+  <a href="mailto:leticiapaesano@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/leticiapaesano/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.notion.so/Let-cia-Paesano-129035f636d180f4904be358bbeb2b7e" target="_blank">
+    <img src="https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ### 🧠 Sobre Mim
@@ -65,11 +77,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LeticiaPaesano&theme=radical&no-frame=true&margin-w=10&column=3"/>
 </p>
-
----
-
-### 📬 Contato
-
-[![Email](https://img.shields.io/badge/📧-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:leticiapaesano@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiapaesano/)
-[![Notion](https://img.shields.io/badge/📝-Notion-black?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Let-cia-Paesano-129035f636d180f4904be358bbeb2b7e)
