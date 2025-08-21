@@ -63,6 +63,19 @@
 
 ---
 
+### 🎓 Certificados
+
+  <a href="https://cursos.alura.com.br/user/leticiapaesano/fullCertificate/fe55138a9217fe395886e7c08674c410" target="_blank">
+    <img src="https://img.shields.io/badge/ONE%20Tech%20Foundation%20G8%20Data%20Science-ff005c?style=for-the-badge&logo=alura&logoColor=white"/>
+  </a>
+  &nbsp;
+      <a href="https://www.credly.com/badges/bca1b898-f2c6-463f-a0ba-132301d8b683" target="_blank">
+    <img src="https://img.shields.io/badge/Credly%20Badge-ff005c?style=for-the-badge&logo=credly&logoColor=white"/>
+  </a>
+</p>
+
+---
+  
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
