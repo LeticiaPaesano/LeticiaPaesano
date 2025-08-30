@@ -70,7 +70,7 @@
   </a>
   &nbsp;
       <a href="https://www.credly.com/badges/bca1b898-f2c6-463f-a0ba-132301d8b683" target="_blank">
-    <img src="https://img.shields.io/badge/Introdução%20à%20Ciência%20de%20Dados-ff005c?style=for-the-badge&logo=credly&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cisco%20--%20Introdução%20à%20Ciência%20de%20Dados-ff005c?style=for-the-badge&logo=credly&logoColor=white"/>
   </a>
 </p>
 
