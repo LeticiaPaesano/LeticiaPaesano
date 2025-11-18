@@ -49,8 +49,8 @@
 - 📊 [**Desempenho das Lojas - Alura Store**](https://github.com/LeticiaPaesano/Desempenho-das-Lojas-Alura-Store)  
   Análise exploratória para recomendar a venda de uma loja com base em KPIs comerciais.
 
-- ☕ [**Análise de Vendas de Café**](https://github.com/LeticiaPaesano/Analise-de-vendas-de-cafe)  
-  Exploração de dados de vendas, frete e categorias para apoiar decisões estratégicas.
+- ☕ [**Análise vendas de café (máquina automática)**](https://github.com/LeticiaPaesano/coffee-vending-etl-eda-analytics)  
+ ETL, segmentação ABC e análise de sazonalidade de máquina de autoatendimento (3.636 transações) para otimização de precificação.
 
 - 📈 [**PNAD 2015 - Renda no Brasil**](https://github.com/LeticiaPaesano/Pesquisa-Nacional-por-Amostra-de-Domicilios-PNAD---2015)  
   Análise descritiva e estatística da renda domiciliar brasileira com visualizações.
