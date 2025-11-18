@@ -47,7 +47,7 @@
 ### 🧩 Projetos em Destaque
 
 - 📊 [**Desempenho das Lojas - Alura Store**](https://github.com/LeticiaPaesano/Desempenho-das-Lojas-Alura-Store)  
-  Análise exploratória para recomendar a venda de uma loja com base em KPIs comerciais.
+Análise de KPIs comerciais (faturamento, categorias, avaliações, frete) de 4 lojas para identificar a unidade com menor desempenho e recomendação de venda.
 
 - ☕ [**Análise vendas de café (máquina automática)**](https://github.com/LeticiaPaesano/coffee-vending-etl-eda-analytics)  
  ETL, segmentação ABC e análise de sazonalidade de máquina de autoatendimento (3.636 transações) para otimização de precificação.
