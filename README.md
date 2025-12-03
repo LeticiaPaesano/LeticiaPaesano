@@ -72,6 +72,15 @@ Análise de KPIs comerciais (faturamento, categorias, avaliações, frete) de 4 
       <a href="https://www.credly.com/badges/bca1b898-f2c6-463f-a0ba-132301d8b683" target="_blank">
       <img src="https://img.shields.io/badge/Cisco%20--%20Introdução%20à%20Ciência%20de%20Dados-ff005c?style=for-the-badge&logo=credly&logoColor=white"/>
   </a>
+    <a href="https://universidade.vexpenses.com.br/certificates/lrjwafiuqx" target="_blank">
+    <img src="https://img.shields.io/badge/Universidade%20VExpenses--%20IA%20Aplicada%20ao%20Financeiro-ff005c?style=for-the-badge&logo=alura&logoColor=white"/>
+  </a>
+  &nbsp;
+    </a>
+    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=7DFE5AC9202F37071187B99662E075AE16ABFC344394E5C1743421B1D21CC58C" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202025%20Certified%20Foundations%20Associate-ff005c?style=for-the-badge&logo=alura&logoColor=white"/>
+  </a>
+  &nbsp;
 </p>
 
 ---
@@ -79,14 +88,8 @@ Análise de KPIs comerciais (faturamento, categorias, avaliações, frete) de 4 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeticiaPaesano&show_icons=true&theme=radical&locale=pt-br"/>
-  <height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=LeticiaPaesano&theme=radical&locale=pt-br"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=LeticiaPaesano&theme=radical&no-frame=true&margin-w=15&column=4" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaPaesano&layout=compact&theme=radical&locale=pt-br"/>
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LeticiaPaesano&theme=radical&no-frame=true&margin-w=10&column=3"/>
-</p>
+
