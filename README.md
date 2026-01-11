@@ -85,11 +85,15 @@ Análise de KPIs comerciais (faturamento, categorias, avaliações, frete) de 4 
 
 ---
   
-### 📊 Estatísticas do GitHub
+<h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LeticiaPaesano&theme=radical&no-frame=true&margin-w=15&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LeticiaPaesano&theme=radical&no-frame=true&margin-w=15&column=4" alt="Troféus de Leticia Paesano" />
 </p>
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaPaesano&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaPaesano&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" />
+</p>
 
-
+<p align="right"><a href="#inicio">⬆️ Voltar ao início</a></p>
