@@ -88,12 +88,12 @@ Análise de KPIs comerciais (faturamento, categorias, avaliações, frete) de 4 
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LeticiaPaesano&theme=radical&no-frame=true&margin-w=15&column=4" alt="Troféus de Leticia Paesano" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LeticiaPaesano&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LeticiaPaesano&layout=compact&langs_count=7&theme=radical" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaPaesano&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaPaesano&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" />
-</p>
-
-<p align="right"><a href="#inicio">⬆️ Voltar ao início</a></p>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LeticiaPaesano/LeticiaPaesano/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/LeticiaPaesano/LeticiaPaesano/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://github.com/LeticiaPaesano/LeticiaPaesano/output/github-contribution-grid-snake.svg">
+</picture>
