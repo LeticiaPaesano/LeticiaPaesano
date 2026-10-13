@@ -10,7 +10,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-Dispon%C3%ADvel%20para%20vagas%20remotas-1D9E75?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=LeticiaPaesano&label=VISITAS&color=185FA5&style=for-the-badge"/>
 </p>
 
 <!-- ===== MENU ===== -->
