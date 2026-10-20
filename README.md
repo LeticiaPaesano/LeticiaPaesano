@@ -11,40 +11,32 @@
 </p>
 
 <p align="center">
-  <a href="#Sobre-mim">
-    <img src="https://img.shields.io/badge/SOBRE-FF2BD6?style=for-the-badge" alt="Sobre mim"/>
-  </a>
-  <a href="#Projeto-em-destaque">
-    <img src="https://img.shields.io/badge/PROJETO-7B2FF7?style=for-the-badge" alt="Projeto em destaque"/>
-  </a>
-  <a href="#Experiencia-profissional">
-    <img src="https://img.shields.io/badge/EXPERIÊNCIA-00A3C4?style=for-the-badge" alt="Experiência profissional"/>
-  </a>
-  <a href="#Competencias">
-    <img src="https://img.shields.io/badge/COMPETÊNCIAS-FF2BD6?style=for-the-badge" alt="Competências"/>
-  </a>
-  <a href="#Contato">
-    <img src="https://img.shields.io/badge/CONTATO-FF6A00?style=for-the-badge" alt="Contato"/>
-  </a>
+  <a href="#sobre-mim"><img src="https://img.shields.io/badge/SOBRE-FF2BD6?style=for-the-badge" alt="Sobre mim"/></a>
+  <a href="#projeto-em-destaque"><img src="https://img.shields.io/badge/PROJETO-7B2FF7?style=for-the-badge" alt="Projeto em destaque"/></a>
+  <a href="#experiencia-profissional"><img src="https://img.shields.io/badge/EXPERIÊNCIA-00A3C4?style=for-the-badge" alt="Experiência profissional"/></a>
+  <a href="#competencias"><img src="https://img.shields.io/badge/COMPETÊNCIAS-FF2BD6?style=for-the-badge" alt="Competências"/></a>
+  <a href="#certificacoes"><img src="https://img.shields.io/badge/CERTIFICAÇÕES-7B2FF7?style=for-the-badge" alt="Certificações"/></a>
+  <a href="#contato"><img src="https://img.shields.io/badge/CONTATO-FF6A00?style=for-the-badge" alt="Contato"/></a>
 </p>
 
 ---
 
-<a id="Sobre-mim"></a>
-## Sobre mim
+<a id="sobre"></a>
 
-Profissional de finanças com **mais de 6 anos de experiência**, graduada em **Ciência de Dados** e **Gestão Financeira** (conclusão em dez/2026). Uso dados para transformar rotinas financeiras em análises que apoiam decisões de negócio.
+<img src="https://img.shields.io/badge/Sobre-FF2BD6?style=for-the-badge" alt="Sobre"/>
+
+Profissional de finanças com **mais de 6 anos de experiência**, graduada em **[Ciência de Dados](https://github.com/user-attachments/assets/17fc19cc-cd67-4b62-9014-90ea56f75378)** e **Gestão Financeira** (conclusão em dez/2026). Uso dados para transformar rotinas financeiras em análises que apoiam decisões de negócio.
 
 **Busco oportunidades como:** Analista Financeiro · Planejamento Financeiro (FP&A) · BPO Financeiro · Análise de Negócios
 
 ---
 
-<a id="Projeto-em-Destaque"></a>
+<a id="projeto-em-destaque"></a>
 
-## Projeto em Destaque
+<img src="https://img.shields.io/badge/Projeto%20em%20Destaque-7B2FF7?style=for-the-badge" alt="Projeto em destaque"/>
 
 <details>
-<summary><a href="https://github.com/LeticiaPaesano/Desempenho-das-Lojas-Alura-Store"><b>Alura Store: Qual loja priorizar para encerramento?</b></a></summary>
+<summary><b><a href="https://github.com/LeticiaPaesano/Desempenho-das-Lojas-Alura-Store">Alura Store: Qual loja priorizar para encerramento?</a></b></summary>
 
 <br>
 
@@ -72,20 +64,22 @@ Os cenários estimaram entre R$ 49 mil e R$ 140 mil anuais em custos fixos a ser
 
 ---
 
-<a id="Experiencia-profissional"></a>
-## Experiência profissional
+<a id="experiencia-profissional"></a>
+
+<img src="https://img.shields.io/badge/Experi%C3%AAncia%20Profissional-00A3C4?style=for-the-badge" alt="Experiência profissional"/>
 
 | Período | Cargo e empresa | Principais entregas |
 |---|---|---|
 | Dez/2025 – Atual | **BPO Financeiro (PJ)**<br>Bollis & Bollis Imóveis | Elaboração e envio de prestações de contas, gestão de contas a pagar e a receber, cobrança e cálculo de inadimplência condominial, consultas de crédito, emissão e atualização de certidões imobiliárias, serviços cartorários e elaboração de planilhas gerenciais.|
 | Ago/2023 – Dez/2025 | **Auxiliar Financeira**<br>Bollis Zippin Filho Advogados | Gestão de contas a pagar e a receber, cálculo de honorários, atualização de débitos condominiais e relatórios gerenciais. Atendimento a clientes por e-mail e WhatsApp. |
-| Dez/2020 – Out/2021 | **Fiscal de Caixa**<br>Visão Sistêmica Treinamentos LTDA | Fechamento e conferência de caixas manuais e sistêmicos, controle de valores e divergências, conferência de operações com a Proforte, emissão e faturamento de notas fiscais, acompanhamento de indicadores operacionais, elaboração de escalas e treinamento de equipe, planilhas gerenciais. |
+| Dez/2020 – Out/2021 | **Supervisora de Frente de Caixa**<br>Visão Sistêmica Treinamentos LTDA | Fechamento e conferência de caixas manuais e sistêmicos, controle de valores e divergências, conferência de operações com a Proforte, emissão e faturamento de notas fiscais, acompanhamento de indicadores operacionais, elaboração de escalas e treinamento de equipe, planilhas gerenciais. |
 | Jan/2015 – Fev/2018 | **Auxiliar Administrativa Financeira**<br>WG Brasil (Adega Brasil) | Lançamento de notas fiscais de entrada, saída, transferência e bonificação; gestão de contas a pagar e a receber; controle do fluxo de caixa e da inadimplência; análise de custos e margens; fechamento de cartão-ponto; balanços internos de estoque; e elaboração de planilhas gerenciais. |
 
 ---
 
 <a id="competencias"></a>
-## Competências
+
+<img src="https://img.shields.io/badge/Compet%C3%AAncias-FF2BD6?style=for-the-badge" alt="Competências"/>
 
 | Área | Aplicação |
 |---|---|
@@ -97,10 +91,14 @@ Os cenários estimaram entre R$ 49 mil e R$ 140 mil anuais em custos fixos a ser
 
 ---
 
-## Certificações
+<a id="certificacoes"></a>
+
+<img src="https://img.shields.io/badge/Certifica%C3%A7%C3%B5es-7B2FF7?style=for-the-badge" alt="Certificações"/>
 
 <p>
   <a href="https://universidade.vexpenses.com.br/certificates/lrjwafiuqx"><img src="https://img.shields.io/badge/IA%20Aplicada%20ao%20Financeiro-FF2BD6?style=for-the-badge" alt="IA Aplicada ao Financeiro"/></a>
+  <a href="https://github.com/user-attachments/files/33718130/Dashboard.Gerencial.com.Power.BI.pdf"><img src="https://img.shields.io/badge/Dashboard%20Gerencial%20Power%20BI-0078D4?style=for-the-badge&logo=powerbi&logoColor=white" alt="Dashboard Gerencial com Power BI"/></a>
+  <a href="https://github.com/user-attachments/files/33718085/Limpeza.e.Transformacao.de.Dados.com.Power.BI.pdf"><img src="https://img.shields.io/badge/Limpeza%20e%20Transforma%C3%A7%C3%A3o%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Limpeza e Transformação de Dados com Power BI"/></a>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=7DFE5AC9202F37071187B99662E075AE16ABFC344394E5C1743421B1D21CC58C"><img src="https://img.shields.io/badge/Oracle%20Cloud%20Foundations%202025-7B2FF7?style=for-the-badge" alt="Oracle Cloud Foundations 2025"/></a>
   <a href="https://cursos.alura.com.br/user/leticiapaesano/fullCertificate/fe55138a9217fe395886e7c08674c410"><img src="https://img.shields.io/badge/ONE%20Data%20Science-00A3C4?style=for-the-badge" alt="ONE Data Science"/></a>
   <a href="https://www.credly.com/badges/bca1b898-f2c6-463f-a0ba-132301d8b683"><img src="https://img.shields.io/badge/Cisco%20Ci%C3%AAncia%20de%20Dados-FF6A00?style=for-the-badge" alt="Cisco Ciência de Dados"/></a>
@@ -109,7 +107,8 @@ Os cenários estimaram entre R$ 49 mil e R$ 140 mil anuais em custos fixos a ser
 ---
 
 <a id="contato"></a>
-## Contato
+
+<img src="https://img.shields.io/badge/Contato-FF6A00?style=for-the-badge" alt="Contato"/>
 
 <p align="center">
   <a href="mailto:leticiapaesano@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-FF2BD6?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
