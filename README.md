@@ -31,23 +31,30 @@
 ---
 
 <a id="Sobre-mim"></a>
+## Sobre mim
 
 Profissional de finanças com **mais de 6 anos de experiência**, graduada em **Ciência de Dados** e **Gestão Financeira** (conclusão em dez/2026). Uso dados para transformar rotinas financeiras em análises que apoiam decisões de negócio.
 
-**Busco:** Analista Financeiro · Planejamento Financeiro (FP&A) · BPO Financeiro · Análise de Negócios
+**Busco oportunidades como:** Analista Financeiro · Planejamento Financeiro (FP&A) · BPO Financeiro · Análise de Negócios
 
 ---
 
 <a id="Projeto-em-Destaque"></a>
 
-### [Alura Store: Qual loja priorizar para encerramento?](https://github.com/LeticiaPaesano/Desempenho-das-Lojas-Alura-Store)
+## Projeto em Destaque
 
-Análise de 4 lojas, com 9.435 vendas ao longo de 39 meses, para apoiar uma decisão de encerramento. A Loja 4 apresentou o pior desempenho em 98% das 10.000 simulações de ponderação, com faturamento de R$ 349 mil e queda de 25,9% nos últimos 12 meses em comparação com os 12 meses anteriores. Os cenários estimaram entre R$ 49 mil e R$ 140 mil anuais em custos fixos a serem evitados, valores que devem ser confrontados com os custos reais, a margem de contribuição e a retenção de vendas pelas demais lojas antes da decisão.
+<details>
+<summary><a href="https://github.com/LeticiaPaesano/Desempenho-das-Lojas-Alura-Store"><b>Alura Store: Qual loja priorizar para encerramento?</b></a></summary>
+
+<br>
+
+Análise de 4 lojas, com 9.435 vendas ao longo de 39 meses, para apoiar uma decisão de encerramento. A Loja 4 apresentou o pior desempenho em 98% das 10.000 simulações de ponderação, com faturamento de R$ 349 mil e queda de 25,9% nos últimos 12 meses em comparação com os 12 meses anteriores.
+
+Os cenários estimaram entre R$ 49 mil e R$ 140 mil anuais em custos fixos a serem evitados. Esses valores devem ser confrontados com os custos reais, a margem de contribuição e a retenção de vendas pelas demais lojas antes da decisão.
 
 <sub>Python · pandas · SciPy · Testes estatísticos · Simulação de cenários · Limitações metodológicas</sub>
 
-<details>
-<summary><b>Ver outros projetos</b></summary>
+</details>
 
 <br>
 
@@ -66,6 +73,7 @@ Análise de 4 lojas, com 9.435 vendas ao longo de 39 meses, para apoiar uma deci
 ---
 
 <a id="Experiencia-profissional"></a>
+## Experiência profissional
 
 | Período | Cargo e empresa | Principais entregas |
 |---|---|---|
@@ -77,6 +85,7 @@ Análise de 4 lojas, com 9.435 vendas ao longo de 39 meses, para apoiar uma deci
 ---
 
 <a id="competencias"></a>
+## Competências
 
 | Área | Aplicação |
 |---|---|
@@ -100,6 +109,7 @@ Análise de 4 lojas, com 9.435 vendas ao longo de 39 meses, para apoiar uma deci
 ---
 
 <a id="contato"></a>
+## Contato
 
 <p align="center">
   <a href="mailto:leticiapaesano@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-FF2BD6?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
