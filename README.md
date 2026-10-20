@@ -11,16 +11,26 @@
 </p>
 
 <p align="center">
-  <a href="#sobre-mim"><img src="https://img.shields.io/badge/SOBRE-FF2BD6?style=for-the-badge" alt="Sobre"/></a>
-  <a href="#projeto-em-destaque"><img src="https://img.shields.io/badge/PROJETO-7B2FF7?style=for-the-badge" alt="Projeto em destaque"/></a>
-  <a href="#experiência-profissional"><img src="https://img.shields.io/badge/EXPERI%C3%8ANCIA-00A3C4?style=for-the-badge" alt="Experiência"/></a>
-  <a href="#competências"><img src="https://img.shields.io/badge/COMPET%C3%8ANCIAS-FF2BD6?style=for-the-badge" alt="Competências"/></a>
-  <a href="#contato"><img src="https://img.shields.io/badge/CONTATO-FF6A00?style=for-the-badge" alt="Contato"/></a>
+  <a href="#Sobre-mim">
+    <img src="https://img.shields.io/badge/SOBRE-FF2BD6?style=for-the-badge" alt="Sobre mim"/>
+  </a>
+  <a href="#Projeto-em-destaque">
+    <img src="https://img.shields.io/badge/PROJETO-7B2FF7?style=for-the-badge" alt="Projeto em destaque"/>
+  </a>
+  <a href="#Experiencia-profissional">
+    <img src="https://img.shields.io/badge/EXPERIÊNCIA-00A3C4?style=for-the-badge" alt="Experiência profissional"/>
+  </a>
+  <a href="#Competencias">
+    <img src="https://img.shields.io/badge/COMPETÊNCIAS-FF2BD6?style=for-the-badge" alt="Competências"/>
+  </a>
+  <a href="#Contato">
+    <img src="https://img.shields.io/badge/CONTATO-FF6A00?style=for-the-badge" alt="Contato"/>
+  </a>
 </p>
 
 ---
 
-## Sobre mim
+<a id="Sobre-mim"></a>
 
 Profissional de finanças com **mais de 6 anos de experiência**, graduada em **Ciência de Dados** e **Gestão Financeira** (conclusão em dez/2026). Uso dados para transformar rotinas financeiras em análises que apoiam decisões de negócio.
 
@@ -28,7 +38,7 @@ Profissional de finanças com **mais de 6 anos de experiência**, graduada em **
 
 ---
 
-## Projeto em destaque
+<a id="Projeto-em-Destaque"></a>
 
 ### [Alura Store: Qual loja priorizar para encerramento?](https://github.com/LeticiaPaesano/Desempenho-das-Lojas-Alura-Store)
 
@@ -55,7 +65,7 @@ Análise de 4 lojas, com 9.435 vendas ao longo de 39 meses, para apoiar uma deci
 
 ---
 
-## Experiência profissional
+<a id="Experiencia-profissional"></a>
 
 | Período | Cargo e empresa | Principais entregas |
 |---|---|---|
@@ -66,7 +76,7 @@ Análise de 4 lojas, com 9.435 vendas ao longo de 39 meses, para apoiar uma deci
 
 ---
 
-## Competências
+<a id="competencias"></a>
 
 | Área | Aplicação |
 |---|---|
@@ -89,7 +99,7 @@ Análise de 4 lojas, com 9.435 vendas ao longo de 39 meses, para apoiar uma deci
 
 ---
 
-## Contato
+<a id="contato"></a>
 
 <p align="center">
   <a href="mailto:leticiapaesano@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-FF2BD6?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
