@@ -25,7 +25,7 @@
 
 <img src="https://img.shields.io/badge/Sobre-FF2BD6?style=for-the-badge" alt="Sobre"/>
 
-Profissional de finanças com **mais de 6 anos de experiência**, graduada em **[Ciência de Dados](https://github.com/user-attachments/assets/17fc19cc-cd67-4b62-9014-90ea56f75378)** e **Gestão Financeira** (conclusão em dez/2026). Uso dados para transformar rotinas financeiras em análises que apoiam decisões de negócio.
+Profissional de finanças com **mais de 6 anos de experiência**, graduada em **[Ciência de Dados](https://github.com/user-attachments/assets/740ff7cd-9031-4888-a546-9baa00e33c22)** e **Gestão Financeira** (conclusão em dez/2026). Uso dados para transformar rotinas financeiras em análises que apoiam decisões de negócio.
 
 **Busco oportunidades como:** Analista Financeiro · Planejamento Financeiro (FP&A) · BPO Financeiro · Análise de Negócios
 
