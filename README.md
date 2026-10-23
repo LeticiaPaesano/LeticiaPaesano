@@ -48,11 +48,25 @@ Os cenários estimaram entre R$ 49 mil e R$ 140 mil anuais em custos fixos a ser
 
 </details>
 
+
+<details>
+<summary><b><a href="https://github.com/LeticiaPaesano/coffee-vending-etl-eda-analytics">Análise de Vendas de Café — Máquina Automática</a></b></summary>
+
+<br>
+
+Análise exploratória de 3.636 transações de uma máquina automática de café, com foco na identificação de padrões de consumo, comportamento de vendas e oportunidades para apoiar decisões comerciais e de precificação.
+
+O projeto contempla ETL, tratamento de dados, análise da Curva ABC, sazonalidade por horário, dia da semana e mês, além da avaliação de receita, ticket médio, frequência de compras e influência de feriados.
+
+<sub>Python · pandas · NumPy · Matplotlib · Seaborn · ETL · Análise Exploratória de Dados · Curva ABC · Sazonalidade</sub>
+
+</details>
+
+
 <br>
 
 | Projeto | Foco |
 |---|---|
-| [Vendas de café (máquina automática)](https://github.com/LeticiaPaesano/coffee-vending-etl-eda-analytics) | ETL, curva ABC e sazonalidade em 3.636 transações, para precificação |
 | [Churn em Telecom](https://github.com/LeticiaPaesano/Telecom-X-Analise-de-Churn) | Padrões de evasão de clientes e retenção de receita |
 | [Churn Hackathon](https://github.com/LeticiaPaesano/Churn_Hackathon) | Previsão de churn (ChurnInsight) |
 | [PNAD 2015: renda no Brasil](https://github.com/LeticiaPaesano/Pesquisa-Nacional-por-Amostra-de-Domicilios-PNAD---2015) | Análise descritiva e estatística da renda domiciliar |
