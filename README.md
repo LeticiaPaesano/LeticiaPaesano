@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-DISPON%C3%8DVEL%20PARA%20VAGAS%20100%25%20REMOTAS-FF6A00?style=for-the-badge" alt="Disponível para vagas 100% remotas"/>
+  <img src="https://img.shields.io/badge/STATUS-DISPON%C3%8DVEL%20-FF6A00?style=for-the-badge" alt="Disponível"/>
 </p>
 
 <p align="center">
@@ -27,8 +27,10 @@
 
 Profissional de finanças com **mais de 6 anos de experiência**, graduada em **[Ciência de Dados](https://github.com/user-attachments/assets/740ff7cd-9031-4888-a546-9baa00e33c22)** e **Gestão Financeira** (conclusão em dez/2026). Uso dados para transformar rotinas financeiras em análises que apoiam decisões de negócio.
 
-**Busco oportunidades como:** Analista Financeiro · Planejamento Financeiro (FP&A) · BPO Financeiro · Análise de Negócios
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Busco oportunidades como: Analista Financeiro · Planejamento Financeiro (FP&A) · BPO Financeiro · Análise de Negócios-00A3C4?style=for-the-badge"
+</p>
+  
 ---
 
 <a id="projeto-em-destaque"></a>
