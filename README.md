@@ -37,16 +37,24 @@ Profissional de finanças com **mais de 6 anos de experiência**, graduada em **
 
 <img src="https://img.shields.io/badge/Projeto%20em%20Destaque-7B2FF7?style=for-the-badge" alt="Projeto em destaque"/>
 
-<details open>
-<summary><b><a href="https://github.com/LeticiaPaesano/financial-planning-model-fpa">FP&amp;A: Vale a pena investir R$ 2 milhões? Viabilidade e Projeção de Caixa</a></b></summary>
+<details>
+<summary><b><a href="https://github.com/LeticiaPaesano/financial-planning-model-fpa">FP&A: Vale a pena investir R$ 2 milhões? Viabilidade e Projeção de Caixa</a></b></summary>
 
 <br>
 
-Modelo de FP&amp;A para apoiar a decisão de um investimento de R$ 2,0 milhões em expansão, avaliado em 3 cenários (pessimista, base e otimista). No cenário base, o VPL é de R$ 703 mil e a TIR de 26,7% a.a., contra 14% de retorno mínimo exigido, com payback descontado de 3,61 anos. No cenário pessimista, o investimento não se paga em 5 anos.
+Modelo de FP&A para apoiar a decisão de um investimento de R$ 2,0 milhões em expansão, avaliado em 3 cenários (pessimista, base e otimista). No cenário base, o VPL é de R$ 703 mil e a TIR de 26,7% a.a., contra 14% de retorno mínimo exigido, com payback descontado de 3,61 anos. No cenário pessimista, o investimento não se paga em 5 anos.
 
 O projeto também mostra o risco de liquidez: o caixa fica negativo em Nov/26 (-R$ 310 mil no cenário base, por causa do desembolso do investimento) e se recupera em Jan/27. Na carteira de recebíveis, 94% da provisão para devedores duvidosos está concentrada em 13 faturas com mais de 180 dias de atraso. Os dados são fictícios, gerados em Python com semente fixa.
 
-<sub>Python · pandas · numpy-financial · Google Sheets · VPL, TIR e Payback · Fluxo de caixa · Análise de cenários e sensibilidade · Aging e PDD</sub>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![VPL & TIR](https://img.shields.io/badge/VPL%20%26%20TIR-2B579A?style=for-the-badge)
+![Fluxo de Caixa](https://img.shields.io/badge/Fluxo%20de%20Caixa-008080?style=for-the-badge)
+![Aging & PDD](https://img.shields.io/badge/Aging%20%26%20PDD-5C2D91?style=for-the-badge)
 
 </details>
 
@@ -59,10 +67,15 @@ Análise de 4 lojas, com 9.435 vendas ao longo de 39 meses, para apoiar uma deci
 
 Os cenários estimaram entre R$ 49 mil e R$ 140 mil anuais em custos fixos a serem evitados. Esses valores devem ser confrontados com os custos reais, a margem de contribuição e a retenção de vendas pelas demais lojas antes da decisão.
 
-<sub>Python · pandas · SciPy · Testes estatísticos · Simulação de cenários · Limitações metodológicas</sub>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Testes Estatísticos](https://img.shields.io/badge/Testes%20Estat%C3%ADsticos-008080?style=for-the-badge)
+![Simulação de Cenários](https://img.shields.io/badge/Simula%C3%A7%C3%A3o%20de%20Cen%C3%A1rios-2B579A?style=for-the-badge)
 
 </details>
-
 
 <details>
 <summary><b><a href="https://github.com/LeticiaPaesano/coffee-vending-etl-eda-analytics">Análise de Vendas de Café — Máquina Automática</a></b></summary>
@@ -73,12 +86,19 @@ Análise exploratória de 3.636 transações de uma máquina automática de caf�
 
 O projeto contempla ETL, tratamento de dados, análise da Curva ABC, sazonalidade por horário, dia da semana e mês, além da avaliação de receita, ticket médio, frequência de compras e influência de feriados.
 
-<sub>Python · pandas · NumPy · Matplotlib · Seaborn · ETL · Análise Exploratória de Dados · Curva ABC · Sazonalidade</sub>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-2B579A?style=for-the-badge)
+![Curva ABC](https://img.shields.io/badge/Curva%20ABC-008080?style=for-the-badge)
+![Sazonalidade](https://img.shields.io/badge/Sazonalidade-5C2D91?style=for-the-badge)
 
 </details>
-
-
-<br>
 
 | Projeto | Foco |
 |---|---|
