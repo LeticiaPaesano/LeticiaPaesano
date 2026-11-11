@@ -37,6 +37,19 @@ Profissional de finanças com **mais de 6 anos de experiência**, graduada em **
 
 <img src="https://img.shields.io/badge/Projeto%20em%20Destaque-7B2FF7?style=for-the-badge" alt="Projeto em destaque"/>
 
+<details open>
+<summary><b><a href="https://github.com/LeticiaPaesano/financial-planning-model-fpa">FP&amp;A: Vale a pena investir R$ 2 milhões? Viabilidade e Projeção de Caixa</a></b></summary>
+
+<br>
+
+Modelo de FP&amp;A para apoiar a decisão de um investimento de R$ 2,0 milhões em expansão, avaliado em 3 cenários (pessimista, base e otimista). No cenário base, o VPL é de R$ 703 mil e a TIR de 26,7% a.a., contra 14% de retorno mínimo exigido, com payback descontado de 3,61 anos. No cenário pessimista, o investimento não se paga em 5 anos.
+
+O projeto também mostra o risco de liquidez: o caixa fica negativo em Nov/26 (-R$ 310 mil no cenário base, por causa do desembolso do investimento) e se recupera em Jan/27. Na carteira de recebíveis, 94% da provisão para devedores duvidosos está concentrada em 13 faturas com mais de 180 dias de atraso. Os dados são fictícios, gerados em Python com semente fixa.
+
+<sub>Python · pandas · numpy-financial · Google Sheets · VPL, TIR e Payback · Fluxo de caixa · Análise de cenários e sensibilidade · Aging e PDD</sub>
+
+</details>
+
 <details>
 <summary><b><a href="https://github.com/LeticiaPaesano/Desempenho-das-Lojas-Alura-Store">Alura Store: Qual loja priorizar para encerramento?</a></b></summary>
 
@@ -75,8 +88,6 @@ O projeto contempla ETL, tratamento de dados, análise da Curva ABC, sazonalidad
 | [ETL de emissões de CO₂](https://github.com/LeticiaPaesano/ETL-com-Pandas-Emissoes-de-CO2-por-Pais.) | ETL com múltiplas fontes (Excel e Google Sheets) |
 
 </details>
-
-<img src="https://img.shields.io/badge/EM%20DESENVOLVIMENTO-FF6A00?style=flat-square" alt="Em desenvolvimento"/> Fluxo de caixa projetado com 3 cenários · Viabilidade de projeto (VPL, TIR e payback) · Aging de contas a receber. *Dados fictícios, identificados como tais.*
 
 ---
 
